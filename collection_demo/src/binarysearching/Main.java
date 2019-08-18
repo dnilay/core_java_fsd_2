@@ -9,7 +9,7 @@ public class Main {
     
     public static void main(String[] args) {
         
-        // Set up testing data
+        
         String name[] = {
             new String("Sang"),
             new String("Shin"),
